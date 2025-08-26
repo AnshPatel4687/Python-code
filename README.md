@@ -1,2 +1,2 @@
 # Python-code
-Simple Python Code
+This Program helps to understand Python
